@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     gap: 1em;
-    /* flex-direction: row-reverse; */
+    flex-direction: row-reverse;
 }
 
 .todoItemText {
